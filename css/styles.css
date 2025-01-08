@@ -1,0 +1,21 @@
+:root {
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario: #ffc10f;
+}
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 20px;
+}
+
+.titulo { 
+    text-align: center;
+    font-size: 3.8rem;
+}
+.titulo span {
+    font-size: 2rem;
+    color:var(--primario)
+}
