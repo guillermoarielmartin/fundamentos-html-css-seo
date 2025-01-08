@@ -29,3 +29,5 @@ Los atributos son propiedades adicionales que se aplican a las etiquetas para de
 - **`rem`**: Se emplea para escalabilidad y adaptabilidad, ya que es una unidad relativa que permite ajustar el tamaño de los elementos de manera flexible según la fuente base del documento.
 - **Clases**: Usadas para modularidad y reutilización de estilos.
 - **Especificidad CSS**: Se refiere a la prioridad con la que se aplican los estilos a los elementos, dependiendo de la especificidad de los selectores utilizados.
+- **Normalize CSS**: Libreria para normalizar, resetear y que los elementos se vean consistentes en los diferentes navegadores.
+- **Google Fonts**: Incorporación de tipografías.
