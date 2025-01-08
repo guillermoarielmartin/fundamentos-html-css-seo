@@ -31,3 +31,4 @@ Los atributos son propiedades adicionales que se aplican a las etiquetas para de
 - **Especificidad CSS**: Se refiere a la prioridad con la que se aplican los estilos a los elementos, dependiendo de la especificidad de los selectores utilizados.
 - **Normalize CSS**: Libreria para normalizar, resetear y que los elementos se vean consistentes en los diferentes navegadores.
 - **Google Fonts**: Incorporación de tipografías.
+- **Flexbox**: Para compaginar elementos en filas, columnas.
